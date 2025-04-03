@@ -16,6 +16,7 @@ A noter : __Homer__ est un composant _enfant_ du composant _racine_ __App__.
 ## Commandes utiles
 
 $ `bun install`
+
 $ `bun run dev`
 
 --
