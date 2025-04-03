@@ -1,7 +1,8 @@
-# Illustration du concept de communication directe entre composants dans une application React
+# Communication directe entre composants dans une application React
 
-- Communication descendante : parent -> enfant
-- Communication ascendante : enfant -> parent
+- Communication __descendante__ : parent -> enfant (via props).
+
+- Communication __ascendante__ : enfant -> parent (via appel de fonction callback passée en référence).
 
 ## Scénario
 
